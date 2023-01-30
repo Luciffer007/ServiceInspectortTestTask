@@ -1,0 +1,16 @@
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\bin\Debug\net5.0\ServiceInspectortTestTask.exe
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\bin\Debug\net5.0\ServiceInspectortTestTask.deps.json
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\bin\Debug\net5.0\ServiceInspectortTestTask.runtimeconfig.json
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\bin\Debug\net5.0\ServiceInspectortTestTask.runtimeconfig.dev.json
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\bin\Debug\net5.0\ServiceInspectortTestTask.dll
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\bin\Debug\net5.0\ref\ServiceInspectortTestTask.dll
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\bin\Debug\net5.0\ServiceInspectortTestTask.pdb
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\obj\Debug\net5.0\ServiceInspectortTestTask.csproj.AssemblyReference.cache
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\obj\Debug\net5.0\ServiceInspectortTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\obj\Debug\net5.0\ServiceInspectortTestTask.AssemblyInfoInputs.cache
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\obj\Debug\net5.0\ServiceInspectortTestTask.AssemblyInfo.cs
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\obj\Debug\net5.0\ServiceInspectortTestTask.csproj.CoreCompileInputs.cache
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\obj\Debug\net5.0\ServiceInspectortTestTask.dll
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\obj\Debug\net5.0\ref\ServiceInspectortTestTask.dll
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\obj\Debug\net5.0\ServiceInspectortTestTask.pdb
+C:\Users\zerro\source\repos\ServiceInspectortTestTask\ServiceInspectortTestTask\obj\Debug\net5.0\ServiceInspectortTestTask.genruntimeconfig.cache
